@@ -1,0 +1,16 @@
+{
+  "name": "com.mustachegamestudiotv.controlecamera",
+  "version": "1.0.0",
+  "displayName": "Controle Camera",
+  "description": "Utilitário para movimentação e controle de zoom da câmera com o mouse.",
+  "licensesUrl": "https://creativecommons.org/licenses/by-sa/4.0",  
+ "keywords": [
+    "camera",
+    "movimentação",
+    "zoom"
+  ],
+  "author": {
+    "name": "Mustache Game Studio TV",
+    "url": "https://www.youtube.com/c/mustachegamestudiotv"
+  }
+}
